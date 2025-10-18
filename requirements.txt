@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+async-exit-stack
+async-generator
+psycopg2-binary
+python-dotenv
